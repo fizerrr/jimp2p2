@@ -1,0 +1,14 @@
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\bin\Debug\netcoreapp3.1\jimp2csharp.exe
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\bin\Debug\netcoreapp3.1\jimp2csharp.deps.json
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\bin\Debug\netcoreapp3.1\jimp2csharp.runtimeconfig.json
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\bin\Debug\netcoreapp3.1\jimp2csharp.runtimeconfig.dev.json
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\bin\Debug\netcoreapp3.1\jimp2csharp.dll
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\bin\Debug\netcoreapp3.1\jimp2csharp.pdb
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\obj\Debug\netcoreapp3.1\jimp2csharp.csproj.AssemblyReference.cache
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\obj\Debug\netcoreapp3.1\jimp2csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\obj\Debug\netcoreapp3.1\jimp2csharp.AssemblyInfoInputs.cache
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\obj\Debug\netcoreapp3.1\jimp2csharp.AssemblyInfo.cs
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\obj\Debug\netcoreapp3.1\jimp2csharp.csproj.CoreCompileInputs.cache
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\obj\Debug\netcoreapp3.1\jimp2csharp.dll
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\obj\Debug\netcoreapp3.1\jimp2csharp.pdb
+C:\Users\birdd\source\repos\jimp2csharp\jimp2csharp\obj\Debug\netcoreapp3.1\jimp2csharp.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\birdd\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\birdd\\.nuget\\packages"
+    ]
+  }
+}

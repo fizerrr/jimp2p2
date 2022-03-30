@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "jimp2csharp/1.0.0": {
+        "runtime": {
+          "jimp2csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jimp2csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
