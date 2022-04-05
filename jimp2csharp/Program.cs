@@ -1,5 +1,6 @@
 ﻿using System.Collections.Generic;
 using System;
+using System.IO;
 
 namespace jimp2csharp
 {
@@ -8,11 +9,19 @@ namespace jimp2csharp
         static void Main(string[] args)
         {
 
-            UserInterface.display_menu();
+            
+            
+
             bool exit = false;
+            
             List<dvd> dvdList = new List<dvd>();
+            UserInterface.load_list(dvdList);
+            Console.WriteLine("Interfejs użytkownika:");
+            Console.WriteLine();
+
             while (!exit)
             {
+                UserInterface.display_menu();
 
                 switch (UserInterface.operation_selection())
                 {
@@ -27,6 +36,8 @@ namespace jimp2csharp
 
 
                         UserInterface.add_reord(dvdList);
+                        UserInterface.save_list(dvdList);
+
 
 
                         break;
@@ -41,9 +52,15 @@ namespace jimp2csharp
 
 
                     case "4":
-                        //save
-
+                        
+                        UserInterface.save_list(dvdList);
                         exit = true;
+
+                       
+                        break;
+
+
+
 
 
                         break;
@@ -54,14 +71,6 @@ namespace jimp2csharp
 
                         Console.WriteLine("Wrong request !,Try again !");
 
-
-                        break;
-
-
-                    case "test":
-
-
-                        exit = true;
 
                         break;
 
